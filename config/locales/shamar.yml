@@ -20,7 +20,7 @@ en:
       humane_approach_title: A more humane approach
       not_a_product_body: Mastodon is not a commercial network. No advertising, no data mining, no walled gardens. There is no central authority.
       not_a_product_title: You’re a person, not a product
-      real_conversation_body: With 500 characters at your disposal and support for granular content and media warnings, you can express yourself the way you want to.
+      real_conversation_body: With 500 characters at your disposal and support for granular subjects and media warnings, you can express yourself the way you want to.
       real_conversation_title: Built for real conversation
       within_reach_body: Multiple apps for iOS, Android, and other platforms thanks to a developer-friendly API ecosystem allow you to keep up with your friends anywhere.
       within_reach_title: Always within reach
@@ -748,7 +748,7 @@ en:
         one: "%{count} video"
         other: "%{count} videos"
     boosted_from_html: Boosted from %{acct_link}
-    content_warning: 'Content warning: %{warning}'
+    content_warning: 'Subject: %{warning}'
     disallowed_hashtags:
       one: 'contained a disallowed hashtag: %{tags}'
       other: 'contained the disallowed hashtags: %{tags}'
@@ -773,7 +773,7 @@ en:
   stream_entries:
     pinned: Pinned toot
     reblogged: boosted
-    sensitive_content: Sensitive content
+    sensitive_content: Subject
   terms:
     body_html: |
       <h2>Privacy Policy</h2>
